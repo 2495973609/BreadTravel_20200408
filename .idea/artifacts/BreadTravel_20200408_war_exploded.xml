@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BreadTravel_20200408:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BreadTravel_20200408_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BreadTravel_20200408/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BreadTravel_20200408" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="JUnit4" module-name="BreadTravel_20200408" />
+          <element id="file-copy" path="E:/IDEA_Project/JavaMail/activation.jar" />
+          <element id="file-copy" path="E:/IDEA_Project/sqljdbc_4.0/chs/sqljdbc4.jar" />
+          <element id="file-copy" path="E:/IDEA_Project/jsonJAR/json-20190722.jar" />
+          <element id="file-copy" path="E:/IDEA_Project/JavaMail/mail.jar" />
+          <element id="file-copy" path="E:/IDEA_Project/UploadFile/commons-fileupload-1.3.2.jar" />
+          <element id="file-copy" path="G:/GDMap/AMap_Android_SDK_All/AMap_Search_V7.1.0_20191030.jar" />
+          <element id="file-copy" path="G:/GDMap/AMap_Android_SDK_All/AMap3DMap/Android_Map3D_SDK_V7.2.1_20200115.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
